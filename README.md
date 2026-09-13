@@ -135,6 +135,8 @@ Model performance was evaluated using:
 
 MAE measures the average absolute difference between actual values and predicted values.
 
+![MAE Comparison](images/MAE_comparison.png)
+
 ### R² Score
 
 R² Score measures how well the model explains the variation in student scores.
@@ -144,6 +146,8 @@ R² Score measures how well the model explains the variation in student scores.
 | Linear Regression | 7.33 | 0.5860 |
 | Decision Tree Regressor | 5.86 | 0.9087 |
 | Random Forest Regressor | 5.86 | 0.9023 |
+
+![R2 Comparison](images/r2_comparison.png)
 
 Based on evaluation results, **Decision Tree Regressor achieved the best performance** with the highest R² Score and lowest MAE on the test dataset.
 

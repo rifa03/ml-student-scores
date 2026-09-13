@@ -208,7 +208,7 @@ Methods:
 
 The project presentation is available here:
 
-`presentation/Student_Performance_Prediction.pdf`
+`presentation/Proyek - Prediksi Nilai Siswa Berdasarkan Jam Belajar.pdf`
 
 The presentation contains:
 
